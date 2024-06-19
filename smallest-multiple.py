@@ -11,4 +11,4 @@ def smallest_multiple(n):
     lcm_value = (lcm_value * i) // gcd_value 
   return lcm_value
 
-print(smallest_multiple(10))
+print(smallest_multiple(20))
